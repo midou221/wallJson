@@ -2639,10 +2639,7 @@
       "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/662/24/901/anime-demon-slayer-kimetsu-no-yaiba-butterfly-girl-shinobu-kochou-hd-wallpaper-preview.jpg",
       "name": "Butterfly, Girl, Shinobu Kochou",
       "category": "girl,nature,Demon Slayer"
-    }
-    
-    
-    ,
+    },
     {
       "author": "wallpaperflare",
       "url": "https://raw.githubusercontent.com/midou221/wallJson/main/w8.jpg",
@@ -2670,6 +2667,76 @@
       "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/509/101/311/pixiv-fantasia-pixiv-fantasia-t-archer-natus-original-characters-wallpaper-preview.jpg",
       "name": "Pixiv Fantasia, Pixiv Fantasia T, Archer Natus",
       "category": "city,girl,guy,dark"
+    },
+    {
+      "author": "wallpaperflare",
+      "url": "https://raw.githubusercontent.com/midou221/wallJson/main/all/s01.jpg",
+      "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/227/583/604/anime-anime-girls-digital-art-artwork-2d-hd-wallpaper-preview.jpg",
+      "name": "digital art, artwork",
+      "category": "girl,Demon Slayer,weapon"
+    },
+    {
+      "author": "wallpaperflare",
+      "url": "https://raw.githubusercontent.com/midou221/wallJson/main/all/s02.jpg",
+      "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/515/114/546/anime-hunter-x-hunter-hisoka-hunter-%C3%97-hunter-hd-wallpaper-preview.jpg",
+      "name": "Hunter x Hunter, Hisoka (Hunter × Hunter)",
+      "category": "guy,dark"
+    },
+    {
+      "author": "wallpaperflare",
+      "url": "https://raw.githubusercontent.com/midou221/wallJson/main/all/s03.jpg",
+      "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/192/472/59/chrollo-lucifer-hunter-x-hunter-suits-raven-wallpaper-preview.jpg",
+      "name": "Chrollo Lucifer, Hunter x Hunter",
+      "category": "guy,animal,styles"
+    },
+    {
+      "author": "wallpaperflare",
+      "url": "https://raw.githubusercontent.com/midou221/wallJson/main/all/s04.jpg",
+      "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/481/664/838/anime-attack-on-titan-attack-on-titan-black-hair-blue-eyes-hd-wallpaper-preview.jpg",
+      "name": "Black Hair, Blue Eyes, Mikasa Ackerman",
+      "category": "Attack On Titan,girl,alone"
+    },
+    {
+      "author": "wallpaperflare",
+      "url": "https://raw.githubusercontent.com/midou221/wallJson/main/all/s05.jpg",
+      "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/40/849/87/anime-girls-wallpaper-preview.jpg",
+      "name": "white window curtain",
+      "category": "city,alone,night"
+    },
+    {
+      "author": "wallpaperflare",
+      "url": "https://raw.githubusercontent.com/midou221/wallJson/main/all/s06.jpg",
+      "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/701/113/85/mona-finden-elric-edward-elric-alphonse-full-metal-alchemist-wallpaper-preview.jpg",
+      "name": "Mona Finden, Elric Edward, Elric Alphonse, Full Metal Alchemist",
+      "category": "guy,weapon,fantasy"
+    },
+    {
+      "author": "wallpaperflare",
+      "url": "https://github.com/midou221/wallJson/blob/main/all/s07.jpg",
+      "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/258/501/148/berserk-black-swordsman-guts-kentaro-miura-wallpaper-preview.jpg",
+      "name": "Berserk, Black Swordsman",
+      "category": "guy,weapon,monster,night"
+    },
+    {
+      "author": "wallpaperflare",
+      "url": "https://raw.githubusercontent.com/midou221/wallJson/main/all/s08.jpg",
+      "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/1004/1016/33/anime-girls-wlop-letter-ghost-blade-wallpaper-preview.jpg",
+      "name": "WLOP, letter, Ghost Blade",
+      "category": "wlop,girl,styles"
+    },
+    {
+      "author": "wallpaperflare",
+      "url": "https://raw.githubusercontent.com/midou221/wallJson/main/all/s09.jpg",
+      "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/985/597/237/berserk-guts-anime-wallpaper-preview.jpg",
+      "name": "holding sword game graphic poster, Berserk, Guts",
+      "category": "guy,weapon,fantasy"
+    },
+    {
+      "author": "wallpaperflare",
+      "url": "https://raw.githubusercontent.com/midou221/wallJson/main/all/s10.jpg",
+      "thumbUrl": "https://c4.wallpaperflare.com/wallpaper/16/512/866/coca-cola-night-anime-anime-girls-wallpaper-preview.jpg",
+      "name": "brown haired female",
+      "category": "city,girl,night,alone"
     }
   ]
 }
