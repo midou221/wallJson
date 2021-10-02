@@ -1,16 +1,16 @@
 {
   "Categories": [
     {
-      "name": "قارئ مانجا عربي"
+      "name": "mangaAR"
     }
   ],
   "Wallpapers": [
     {
-      "author": "قارئ مانجا عربي",
+      "author": "mangaAR",
       "url": "https://raw.githubusercontent.com/midou221/wallJson/main/newUpdate.png",
       "thumbUrl": "https://raw.githubusercontent.com/midou221/wallJson/main/newUpdate.png",
-      "name": "قارئ مانجا عربي",
-      "category": "قارئ مانجا عربي"
+      "name": "Manga reader AR",
+      "category": "mangaAR"
     }
   ]
 }
